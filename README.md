@@ -63,6 +63,7 @@ Ethereum Research forum - [ethresear.ch](https://ethresear.ch/top/weekly)
 Youtube Tutorial - [github.com/eattheblocks](https://github.com/jklepatch/eattheblocks/tree/master/screencast/138-defi-programming-uniswap)
 
 Tools
+- [QuantumPools](https://quantumpools.io) - Multi-chain concentrated-liquidity LP bookkeeping & Cover Value (fees vs IL vs original deposit) across EVM + Solana.
 Farming APY & Yield Info ]vfat.tools](https://vfat.tools/)
 
 Visual
@@ -80,5 +81,3 @@ source
 [a16z.com](https://a16z.com/2021/04/02/nfts-readings-resources/)
 
 [berkeley-defi.github.io](https://berkeley-defi.github.io/)
-
-
